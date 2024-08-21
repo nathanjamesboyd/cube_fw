@@ -22,5 +22,11 @@
     "version" : "0.0.1-2435",
     "hwType" : "Cube",
     "imageType" : "bim"
+  },
+  {
+    "fileName" : "xoria_oad_build_2438.bin",
+    "version" : "0.0.1-2438",
+    "hwType" : "Cube",
+    "imageType" : "bim"
   }
 ]
