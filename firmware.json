@@ -1,38 +1,8 @@
 [
   {
-    "fileName" : "project_zero_CC1352R1_LAUNCHXL_tirtos_ccs_proto_oad.bin",
-    "version" : "0.0.1-dev",
-    "hwType" : "Cube",
-    "imageType" : "bim"
-  },
-  {
-    "fileName" : "xoria_oad_build_2433.bin",
-    "version" : "0.0.1-2429",
-    "hwType" : "Cube",
-    "imageType" : "bim"
-  },
-  {
-    "fileName" : "xoria_oad_build_2429.bin",
-    "version" : "0.0.1-2429",
-    "hwType" : "Cube",
-    "imageType" : "bim"
-  },
-  {
-    "fileName" : "xoria_oad_build_2435.bin",
-    "version" : "0.0.1-2435",
-    "hwType" : "Cube",
-    "imageType" : "bim"
-  },
-  {
-    "fileName" : "xoria_oad_build_2438.bin",
-    "version" : "0.0.1-2438",
-    "hwType" : "Cube",
-    "imageType" : "bim"
-  },
-  {
     "fileName" : "xoria_oad_build_2442.bin",
-    "version" : "0.0.1-2442",
-    "hwType" : "Cube",
+    "version" : "cube-dev-2489",
+    "hwType" : "Cube-Dev",
     "imageType" : "bim"
   }
 ]
