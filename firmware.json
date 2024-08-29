@@ -4,5 +4,12 @@
     "version" : "cube-dev-2831",
     "hwType" : "Cube-Dev",
     "imageType" : "bim"
+  },
+  {
+    "fileName" : "xoria_oad_build_2882.bin",
+    "version" : "cube-dev-2882",
+    "hwType" : "Cube-Dev",
+    "imageType" : "bim"
   }
+
 ]
