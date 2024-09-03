@@ -1,15 +1,8 @@
 [
   {
-    "fileName" : "xoria_oad_build_2831.bin",
-    "version" : "cube-dev-2831",
-    "hwType" : "Cube-Dev",
-    "imageType" : "bim"
-  },
-  {
-    "fileName" : "xoria_oad_build_2882.bin",
-    "version" : "cube-dev-2882",
+    "fileName" : "xoria_oad_build_3044.bin",
+    "version" : "cube-dev-3044",
     "hwType" : "Cube-Dev",
     "imageType" : "bim"
   }
-
 ]
