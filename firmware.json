@@ -1,8 +1,15 @@
 [
   {
-    "fileName" : "cube-mod_v1.0.0-3042.bin",
+    "fileName" : "xoria_oad_build_3040.bin",
     "version" : "cube-mod_v1.0.0-3042",
     "hwType" : "Cube-Dev",
     "imageType" : "bim"
+  },
+  {
+    "fileName" : "xoria_oad_build_3XXX.bin",
+    "version" : "cube-mod_v1.0.0-XXX",
+    "hwType" : "Cube-Dev",
+    "imageType" : "bim"
   }
+
 ]
