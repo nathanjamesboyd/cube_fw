@@ -1,7 +1,7 @@
 [
   {
-    "fileName" : "xoria_oad_build_3048.bin",
-    "version" : "test",
+    "fileName" : "xoria_oad_v1.0.0-3081.bin",
+    "version" : "latest-test",
     "hwType" : "Cube-Dev",
     "imageType" : "bim"
   },
