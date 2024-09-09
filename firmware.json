@@ -1,5 +1,11 @@
 [
   {
+    "fileName" : "xoria_oad_v1_0_1-3115.bin",
+    "version" : "latest-test",
+    "hwType" : "Cube-Dev",
+    "imageType" : "bim"
+  },
+  {
     "fileName" : "xoria_oad_v1_0_0-3081.bin",
     "version" : "latest-test",
     "hwType" : "Cube-Dev",
