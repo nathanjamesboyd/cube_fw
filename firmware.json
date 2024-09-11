@@ -1,28 +1,8 @@
 [
   {
-    "fileName" : "cube_mod_1_0_3_3151.bin",
-    "version" : "latest-test",
-    "hwType" : "Cube-Dev",
-    "imageType" : "bim"
-  },
-
-  {
-    "fileName" : "cube_mod_1_0_2_3148.bin",
-    "version" : "latest-test",
-    "hwType" : "Cube-Dev",
-    "imageType" : "bim"
-  },
-  {
-    "fileName" : "xoria_oad_v1_0_0-3081.bin",
-    "version" : "cube-mod_v1.0.1-3081",
-    "hwType" : "Cube-Dev",
-    "imageType" : "bim"
-  },
-  {
-    "fileName" : "xoria_oad_build_3XXX.bin",
-    "version" : "cube-mod_v1.0.0-XXX",
+    "fileName" : "cube_mod_1_0_4_3186.bin",
+    "version" : "matt-test",
     "hwType" : "Cube-Dev",
     "imageType" : "bim"
   }
-
 ]
